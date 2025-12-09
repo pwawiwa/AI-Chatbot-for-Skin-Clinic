@@ -1,0 +1,405 @@
+{
+  "treatments": {
+    "acne_series_treatment": [
+      {
+        "name": "Acne Inflamasi & Redness",
+        "description": "Oily Skin & Kusam, Jerawat Meradang, PIE & PIH",
+        "original_price": 925000,
+        "promo_price": 529000,
+        "includes": [
+          "Facial Acne Redness",
+          "Premium Peeling Acne",
+          "Steril Oxy Spray",
+          "Serum Acne",
+          "IPL Acne Redness"
+        ]
+      },
+      {
+        "name": "Acne Rescue & Repair",
+        "description": "Oily Skin & Kusam, Jerawat Bruntusan, Mengurangi Kemerahan",
+        "original_price": 840000,
+        "promo_price": 459000,
+        "includes": [
+          "Facial Acne Redness",
+          "Premium Peeling Acne",
+          "Iontophoresis Acne",
+          "Serum Acne",
+          "IPL Acne Redness"
+        ]
+      },
+      {
+        "name": "Acne Intensive Recovery",
+        "description": "Oily Skin & Kusam, Acne Ringan-sedang, Mencerahkan",
+        "original_price": 649000,
+        "promo_price": 399000,
+        "includes": [
+          "Facial Acne Redness",
+          "Acne Peel",
+          "Mesotherapy Acne",
+          "Serum Acne",
+          "Blue Light Therapy"
+        ]
+      },
+      {
+        "name": "Deep Calm Acne Therapy",
+        "description": "Oily Skin & Kusam, Acne Ringan-sedang, Skin Barrier, Mengurangi Kemerahan & Peradangan",
+        "original_price": 999000,
+        "promo_price": 549000,
+        "includes": [
+          "Facial Acne Redness",
+          "Derma Exosome",
+          "Blue Light Therapy",
+          "Serum Booster Cica"
+        ]
+      }
+    ],
+    "acne_clear_skin_treatment": [
+      {
+        "name": "Radiant Acne Facial",
+        "description": "Best for: Oily Skin, Acne Ringan, Mencerahkan",
+        "original_price": 285000,
+        "promo_price": 198000,
+        "includes": [
+          "Facial Acne",
+          "Iontophoresis Acne",
+          "Serum Acne",
+          "Blue Light Therapy"
+        ]
+      },
+      {
+        "name": "Acne Glow Refresh",
+        "description": "Best for: Oily Skin, Acne Bruntusan, Mencerahkan",
+        "original_price": 489000,
+        "promo_price": 289000,
+        "includes": [
+          "Facial Acne",
+          "Mesotherapy Acne",
+          "Serum Acne",
+          "IPL Acne"
+        ]
+      },
+      {
+        "name": "Oxybright Acne Therapy",
+        "description": "Best for: Oily Skin, Acne Meradang, Mencerahkan",
+        "original_price": 549000,
+        "promo_price": 325000,
+        "includes": [
+          "Facial Acne",
+          "Oxy Acne",
+          "Serum Acne",
+          "IPL Acne"
+        ]
+      }
+    ],
+    "brightening_clear_skin_treatment": [
+      {
+        "name": "Dewy Bright Treatment",
+        "description": "Mencerahkan, Atasi Kulit Kusam Kering",
+        "original_price": 285000,
+        "promo_price": 198000,
+        "includes": [
+          "Facial Brightening",
+          "Iontophoresis Brightening",
+          "Serum Brightening",
+          "Red Light Therapy"
+        ]
+      },
+      {
+        "name": "Glow Essence Facial",
+        "description": "Lembap Bercahaya, Atasi Kulit Kusam Kering",
+        "original_price": 489000,
+        "promo_price": 289000,
+        "includes": [
+          "Facial Brightening",
+          "Mesotherapy Brightening",
+          "Serum Brightening",
+          "IPL Brightening"
+        ]
+      },
+      {
+        "name": "Hydra Glow Facial",
+        "description": "Kenyal Lembap, Atasi Kulit Kusam",
+        "original_price": 549000,
+        "promo_price": 325000,
+        "includes": [
+          "Facial Brightening",
+          "Oxy Brightening",
+          "Serum Brightening",
+          "IPL Brightening"
+        ]
+      }
+    ],
+    "anti_aging_series": [
+      {
+        "name": "Youth Hydralift",
+        "description": "Fokus Hidrasi Dalam, Mengurangi Kerutan & Mencerahkan",
+        "original_price": 479000,
+        "promo_price": 249000,
+        "includes": [
+          "Facial Aging",
+          "RF (Leher + Wajah)",
+          "Serum Brightening",
+          "Ice Ball",
+          "Masker Collagen"
+        ]
+      },
+      {
+        "name": "Collagen Restore",
+        "description": "Menstimulasi Kolagen, Perbaiki Elastisitas & Mencerahkan",
+        "original_price": 579000,
+        "promo_price": 329000,
+        "includes": [
+          "Facial Aging",
+          "RF (Leher + Wajah)",
+          "Serum Brightening",
+          "PDT",
+          "Masker Collagen"
+        ]
+      },
+      {
+        "name": "Age Reserve Supreme",
+        "description": "Intensif untuk Kerutan & Tanda Penuaan, Kulit lebih Kencang & Mencerahkan",
+        "original_price": 779000,
+        "promo_price": 449000,
+        "includes": [
+          "Facial Aging",
+          "RF (Leher + Wajah)",
+          "Serum Brightening",
+          "Laser BD",
+          "Masker Collagen"
+        ]
+      }
+    ],
+    "scar_bopeng_series": [
+      {
+        "name": "Poreless Rejuvenation",
+        "description": "Oily Skin, Pori-pori Besar, Bopeng Ringan, PIE/PIH, Mencerahkan",
+        "type": "PRP Dermapen",
+        "original_price": 550000,
+        "promo_price": 350000
+      },
+      {
+        "name": "Scar Away Treatment",
+        "description": "Oily Skin, Pori-pori Besar, Bopeng Sedang, PIE/PIH, Mencerahkan",
+        "type": "PRP Dermapen + Inject Scar",
+        "original_price": 750000,
+        "promo_price": 499000
+      },
+      {
+        "name": "Perfect Derma",
+        "description": "Oily Skin, Bopeng Dalam & Banyak",
+        "type": "PRP Subsisi",
+        "original_price": 899000,
+        "promo_price": 599000
+      },
+      {
+        "name": "Poreless Rejuvenation (PRP Dermapen + PRP Subsidy + Inject)",
+        "description": "Oily Skin, Pori-pori Besar, Bopeng Dalam & Banyak, Mencerahkan",
+        "type": "PRP Dermapen + PRP Subsidy + Inject",
+        "original_price": 1299000,
+        "promo_price": 899000
+      },
+      {
+        "name": "Hairloss Derma PRP",
+        "description": "Rambut Rontok, Rambut Tipis, Kebotakan",
+        "type": "PRP Dermapen + Inject",
+        "original_price": 550000,
+        "promo_price": 350000
+      }
+    ],
+    "laser_pico_launching_promo": [
+      {
+        "name": "Korean Pico Black Glow Laser",
+        "description": "Pori-pori besar mengecil, kulit berminyak lebih terkontrol, dan bekas jerawat memudar untuk hasil kulit lembut bercahaya.",
+        "original_price": 955000,
+        "promo_price": 559000,
+        "includes": [
+          "Facial 7 Step",
+          "Mesotherapy Brightening",
+          "Pico Black Laser",
+          "Masker Brightening",
+          "Free Pico Lip Laser"
+        ]
+      },
+      {
+        "name": "Korean Pico Laser Brightening",
+        "description": "Wajah kusam berubah lebih cerah merata, noda hitam bekas jerawat tersamarkan maksimal hanya dengan sekali treatment.",
+        "original_price": 955000,
+        "promo_price": 559000,
+        "includes": [
+          "Facial 7 Step",
+          "Microdermabrasi Diamond",
+          "Korean Pico Laser",
+          "Masker Brightening",
+          "Free Pico Lip Laser"
+        ]
+      },
+      {
+        "name": "Pico DNA Salmon Brightening Laser",
+        "description": "Kulit lebih halus, cerah, dan bebas flek berkat nutrisi DNA Salmon yang membantu memulihkan dan mencerahkan secara optimal.",
+        "original_price": 955000,
+        "promo_price": 579000,
+        "includes": [
+          "Facial 7 Step",
+          "Galvanic with DNA Salmon",
+          "Korean Pico Laser",
+          "Masker Brightening",
+          "Free Pico Lip Laser"
+        ]
+      }
+    ],
+    "beauty_independence_day_promo": [
+      {
+        "name": "Bright Vibes Only",
+        "original_price": 250000,
+        "promo_price": 165000,
+        "includes": [
+          "Facial 7 Step",
+          "Microdermabrasi Diamond",
+          "PDT Red",
+          "Masker Brightening"
+        ],
+        "location": "Almeera Purwokerto"
+      },
+      {
+        "name": "Acne Solution",
+        "original_price": 270000,
+        "promo_price": 185000,
+        "includes": [
+          "Facial 7 Step",
+          "Peeling acne",
+          "Jet Oxy",
+          "Serum Acne",
+          "Masker Salicylic Acid"
+        ],
+        "location": "Almeera Purwokerto"
+      },
+      {
+        "name": "Timeless Glow",
+        "original_price": 250000,
+        "promo_price": 200000,
+        "includes": [
+          "Facial 7 Step",
+          "Jet Oxy Bright",
+          "Bio Rejuv Light",
+          "Masker Brightening"
+        ],
+        "location": "Almeera Purwokerto"
+      }
+    ],
+    "double_treatment_acne": [
+      {
+        "name": "Blue Peel",
+        "original_price": 285000,
+        "promo_price": 195000,
+        "includes": [
+          "Acne Peel",
+          "Bio Light"
+        ]
+      },
+      {
+        "name": "Acne Bright",
+        "original_price": 315000,
+        "promo_price": 285000,
+        "includes": [
+          "Acne Peel",
+          "Jet Oxy"
+        ]
+      },
+      {
+        "name": "Acne Glow",
+        "original_price": 400000,
+        "promo_price": 345000,
+        "includes": [
+          "Acne Peel",
+          "Mesotherapy Acne"
+        ]
+      },
+      {
+        "name": "Super Acne",
+        "original_price": 500000,
+        "promo_price": 400000,
+        "includes": [
+          "Acne Peel",
+          "IPL Acne"
+        ]
+      }
+    ],
+    "double_treatment_glowing": [
+      {
+        "name": "Red Peel",
+        "original_price": 285000,
+        "promo_price": 195000,
+        "includes": [
+          "Meso Peel",
+          "Bio Light Therapy"
+        ]
+      },
+      {
+        "name": "Instant Glow",
+        "original_price": 315000,
+        "promo_price": 285000,
+        "includes": [
+          "Meso Peel",
+          "Galvanic Acne"
+        ]
+      },
+      {
+        "name": "Oxy Glow",
+        "original_price": 375000,
+        "promo_price": 350000,
+        "includes": [
+          "MD",
+          "Jet Oxy"
+        ]
+      },
+      {
+        "name": "Best Glow",
+        "original_price": 400000,
+        "promo_price": 375000,
+        "includes": [
+          "Meso Peel",
+          "Mesotherapy Brightening"
+        ]
+      },
+      {
+        "name": "Super Glow",
+        "original_price": 525000,
+        "promo_price": 400000,
+        "includes": [
+          "Meso Peel",
+          "IPL DS"
+        ]
+      },
+      {
+        "name": "Diamond Glow",
+        "original_price": 525000,
+        "promo_price": 425000,
+        "includes": [
+          "MD",
+          "IPL DS"
+        ]
+      }
+    ],
+    "anti_aging_rejuvenation": [
+      {
+        "name": "Rejuvenation I",
+        "original_price": 310000,
+        "promo_price": 275000,
+        "includes": [
+          "RF",
+          "Bio Light Therapy"
+        ]
+      },
+      {
+        "name": "Rejuvenation II",
+        "original_price": 525000,
+        "promo_price": 425000,
+        "includes": [
+          "RF",
+          "IPL Rejuvenation"
+        ]
+      }
+    ]
+  }
+}

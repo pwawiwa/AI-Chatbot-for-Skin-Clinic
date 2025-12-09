@@ -1,13 +1,12 @@
 ## Milestone 1 — Core AI Chatbot (Local)
 
 What we built
-- Project structure: `main.py`, `config.py`, `data_loader.py`, `llm_manager.py`, `sheets_manager.py`
-- Treatment data loader: pulls from `Harga Agustus/prices_august.json`
-- LLM chat (Bahasa Indonesia): girly, casual, elegant tone; minimal if-else; suggestions based on treatment data
-- Conversation memory: passes full message history to LLM for contextual replies
-- Content moderation: basic filtering using OpenAI moderation
-- Local chat loop for testing (Sheets disabled by default)
-- Google Sheets utilities (service account): open by Spreadsheet ID, read/write helpers
+ Project structure: `main.py`, `config.py`, `data_loader.py`, `llm_manager.py`, `csv_manager.py`
+ Treatment data loader: pulls from `Price List/prices_august.json` or local CSVs in `data/`
+ Local chat loop for testing (CSV-based data)
+ Google Sheets utilities removed; use `csv_manager.py` for local CSV testing
+ Birthday automation: update “ULTAH REMINDER” when today == “Tanggal lahir”; list birthdays; generate birthday messages (printed only)
+ Local CSV-based data in `data/` and `Price List/`
 - Birthday automation: update “ULTAH REMINDER” when today == “Tanggal lahir”; list birthdays; generate birthday messages (printed only)
 
 Tested locally

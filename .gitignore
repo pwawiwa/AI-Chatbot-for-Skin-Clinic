@@ -1,7 +1,32 @@
+# Environment
 .env
-credentials/
+
+# Virtualenv
+.venv/
+
+# Python
 __pycache__/
 *.pyc
+*.pyo
+
+# OS
+.DS_Store
+
+# Logs
 *.log
-.venv/
-Harga Agustus/prices_august.json
+
+# Credentials and keys
+credentials/
+credentials/*
+
+# Data outputs (don't commit generated reports)
+data/updated_leads.csv
+data/birthday_report_*.csv
+outputs/
+
+# Price list (if you keep proprietary copies locally). Keep data/prices_*.json instead.
+Price List/*.json
+
+# Scripts cache
+scripts/__pycache__/
+
